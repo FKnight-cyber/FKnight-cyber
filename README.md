@@ -25,7 +25,6 @@ I`ve been working with **Javascript** and **C#**, but i have interest in  **C++*
 
 <br />
 <br />
----
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -34,6 +33,12 @@ I`ve been working with **Javascript** and **C#**, but i have interest in  **C++*
 
 </details>
 
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="My's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fknight-cyber" />
+
+</details>
 
 
 [linkedin]: https://www.linkedin.com/in/ryan-nicholas-15ba51158/
