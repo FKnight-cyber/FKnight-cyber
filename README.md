@@ -27,14 +27,14 @@ I`ve been working with **Javascript** and **C#**, but i have interest in  **C++*
 <br />
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary><span class="iconify" data-icon="octicon:log-16"></span> GitHub Stats</summary>
 
   <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fknight-cyber&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
-  <summary>:zap: Most Used Languages</summary>
+  <summary><span class="iconify" data-icon="octicon:log-16"></span> Most Used Languages</summary>
 
 <img align="left" alt="My's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fknight-cyber" />
 
