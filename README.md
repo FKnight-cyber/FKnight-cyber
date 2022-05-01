@@ -27,6 +27,13 @@ I`ve been working with **Javascript** and **C#**, but i have interest in  **C++*
 <br />
 ---
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fknight-cyber&show_icons=true&hide_border=true" />
+
+</details>
+
 
 
 [linkedin]: https://www.linkedin.com/in/ryan-nicholas-15ba51158/
