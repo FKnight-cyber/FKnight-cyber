@@ -12,7 +12,7 @@ I`ve been working with **Javascript** and **C#**, but i have interest in  **C++*
 
 ### Talk with me
 
-[<img align="left" | LinkedIn" width="22px" src="https://www.linkedin.com/in/ryan-nicholas-15ba51158/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -26,3 +26,7 @@ I`ve been working with **Javascript** and **C#**, but i have interest in  **C++*
 <br />
 <br />
 ---
+
+
+
+[linkedin]: https://www.linkedin.com/in/ryan-nicholas-15ba51158/
