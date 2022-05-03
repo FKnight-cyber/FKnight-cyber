@@ -2,7 +2,7 @@
 
 My name is Ryan Nicholas, i`m from Brazil, also a student in Driven Full-stack development bootcamp and graduating in Computer Science at IFCE.
 
-I`ve been working with **Javascript** and **C#**, but i have interest in  **C++** mostly due to its usage in game development.
+I`ve been working with **Javascript** and **C#**, but I have interest in  **C++** mostly due to its usage in game development.
 
 ## Facts about me!!!
 - 🔭 I’m currently working on my first mobile game.
