@@ -44,3 +44,5 @@ I`ve been working with **Javascript** and **C#**, but I have interest in  **C++*
 
 
 [linkedin]: https://www.linkedin.com/in/ryan-nicholas-15ba51158/
+
+"Lack of structure offers not freedom, but chaos."
