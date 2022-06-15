@@ -6,7 +6,7 @@ I`ve been working with **Javascript** and **C#**, but I have interest in  **C++*
 
 ## Facts about me!!!
 - 🔭 I’m currently working on my first mobile game.
-- ✍️ I’m currently learning React and C#.
+- ✍️ I’m currently learning Nodejs.
 - 💬 Ask me about ... Anything
 - 🚀 Fun fact: I own 4 dogs and 4 cats 🐶😻
 
