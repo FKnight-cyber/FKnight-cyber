@@ -1,5 +1,5 @@
 ### Hello World! 👋
-  <img align="right" alt="cat typing gif" src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="400" height="320" />
+  <img align="right" alt="cat typing gif" src="https://camo.githubusercontent.com/747b16d34fb50186c8931ee913cdbd068f643ec6e243cdb2595dbdff61c01d0e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f506951656a4566333131313655526a7534562f67697068792e676966" width="400" height="320" />
 
 My name is Ryan Nicholas, i`m from Brazil, also a student in Driven Full-stack development bootcamp and graduating in Computer Science at IFCE.
 
