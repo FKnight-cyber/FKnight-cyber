@@ -6,7 +6,7 @@ I`ve been working with **Javascript** and **C#**, but I have interest in  **C++*
 
 ## Facts about me!!!
 - 🔭 I’m currently working on my first mobile game.
-- ✍️ I’m currently learning Nodejs.
+- ✍️ I’m currently learning MySQL.
 - 💬 Ask me about ... Anything
 - 🚀 Fun fact: I own 4 dogs and 4 cats 🐶😻
 
@@ -23,12 +23,15 @@ I`ve been working with **Javascript** and **C#**, but I have interest in  **C++*
 <img align="left" alt="CSS3" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="nodejs" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
 <img align="left" alt="MongoDB" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <br />
 <br />
-
+<br />
+<br />
+<br />
+---
 <details>
   <summary>:heavy_exclamation_mark: GitHub Stats</summary>
 
