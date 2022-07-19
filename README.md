@@ -1,5 +1,5 @@
 ### Hello World! 👋
-<img align="right" alt="monkey typing gif" src="https://c.tenor.com/JJ_is357rXYAAAAC/spike-monkey-typing.gif" width="400" height="320" />
+  <img align="right" alt="cat typing gif" src="https://c.tenor.com/JJ_is357rXYAAAAC/spike-monkey-typing.gif" width="400" height="320" />
 
 My name is Ryan Nicholas, i`m from Brazil, also a student in Driven Full-stack development bootcamp and graduating in Computer Science at IFCE.
 
