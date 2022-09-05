@@ -23,11 +23,12 @@ I`ve been working with **Javascript** and **C#**, but I have an interest in  **C
 <img align="left" alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="C++" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c++/c++.png" />
+<img align="left" alt="c++" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="React" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="nodejs" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+<img align="left" alt="express" width="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
 <img align="left" alt="MongoDB" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Postgres" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgres/postgres.png" />
+<img align="left" alt="PostgreSQL" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 
 <br />
 <br />
@@ -39,7 +40,7 @@ I`ve been working with **Javascript** and **C#**, but I have an interest in  **C
 <details>
   <summary>:heavy_exclamation_mark: GitHub Stats</summary>
 
-  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fknight-cyber&show_icons=true&hide_border=true" />
+  <img align="bottom" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fknight-cyber&show_icons=true&hide_border=true" />
 
 </details>
 
@@ -48,7 +49,7 @@ I`ve been working with **Javascript** and **C#**, but I have an interest in  **C
 <details>
   <summary>:heavy_exclamation_mark: Most Used Languages</summary>
 
-<img align="left" alt="My GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fknight-cyber" />
+<img align="bottom" alt="My GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fknight-cyber" />
 
 </details>
 
