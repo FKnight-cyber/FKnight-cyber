@@ -1,14 +1,12 @@
 ### Hello World! 👋
   <img align="right" alt="cat typing gif" src="https://camo.githubusercontent.com/747b16d34fb50186c8931ee913cdbd068f643ec6e243cdb2595dbdff61c01d0e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f506951656a4566333131313655526a7534562f67697068792e676966" width="400" height="320" />
 
-My name is Ryan Nicholas, i`m from Brazil, also a student in Driven Full-stack development bootcamp and graduating in Computer Science at IFCE.
-
-I`ve been working with **Javascript** and **C#**, but I have an interest in  **C++** mostly due to its usage in game development.
+Olá, é um prazer recebê-lo em meu humilde porfólio!
 
 ## Facts about me!!!
-- ✍️ I’m currently learning Docker.
-- 💬 Ask me about ... Anything
-- 🚀 Fun fact: I own 4 dogs and 4 cats 🐶😻
+- ✍️ Atualmente estou estudando Docker.
+- 💬 Pode me perguntar sobre qualquer coisa, que tal jogos?
+- 🐶 Pai de 4 cães e 4 gatos.
 
 ### Talk with me
 
