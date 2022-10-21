@@ -6,8 +6,7 @@ My name is Ryan Nicholas, i`m from Brazil, also a student in Driven Full-stack d
 I`ve been working with **Javascript** and **C#**, but I have an interest in  **C++** mostly due to its usage in game development.
 
 ## Facts about me!!!
-- 🔭 I’m currently working on my first mobile game.
-- ✍️ I’m currently learning MySQL.
+- ✍️ I’m currently learning Docker.
 - 💬 Ask me about ... Anything
 - 🚀 Fun fact: I own 4 dogs and 4 cats 🐶😻
 
@@ -19,22 +18,7 @@ I`ve been working with **Javascript** and **C#**, but I have an interest in  **C
 
 ### Languages and Tools:
   
-  <img src="https://img.shields.io/badge/JavaScript-007ACC?style=for-the-badge&logo=javascript&logoColor=white" height="30px"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30px"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="30px"/>  
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express.js&logoColor=white" height="30px"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="30px"/>
-  <img src="https://img.shields.io/badge/MongoDB-316192?style=for-the-badge&logo=mongodb&logoColor=white" height="30px"/>
-  <img src="https://img.shields.io/badge/Prisma-316192?style=for-the-badge&logo=prisma&logoColor=white" height="30px"/>
-  <img src="https://img.shields.io/badge/AWS-316192?style=for-the-badge&logo=aws&logoColor=white" height="30px"/>
-  <img src="https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white" height="30px"/>
-  <img src="https://img.shields.io/badge/Jest-316192?style=for-the-badge&logo=jest&logoColor=white" height="30px"/>
-  <img src="https://img.shields.io/badge/Cypress-316192?style=for-the-badge&logo=cypress&logoColor=white" height="30px"/>
-  <img src="https://img.shields.io/badge/React-316192?style=for-the-badge&logo=react&logoColor=white" height="30px"/>
-  <img src="https://img.shields.io/badge/Styled-components-316192?style=for-the-badge&logo=styled-components&logoColor=white" height="30px"/>
-  <img src="https://img.shields.io/badge/HTML-316192?style=for-the-badge&logo=html&logoColor=white" height="30px"/>
-  <img src="https://img.shields.io/badge/CSS-316192?style=for-the-badge&logo=css&logoColor=white" height="30px"/>
-  <img src="https://img.shields.io/badge/VSCode-316192?style=for-the-badge&logo=vscodes&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/JavaScript-007ACC?style=for-the-badge&logo=javascript&logoColor=white" height="30px"/><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30px"/><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="30px"/><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express.js&logoColor=white" height="30px"/><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="30px"/><img src="https://img.shields.io/badge/MongoDB-316192?style=for-the-badge&logo=mongodb&logoColor=white" height="30px"/><img src="https://img.shields.io/badge/Prisma-316192?style=for-the-badge&logo=prisma&logoColor=white" height="30px"/><img src="https://img.shields.io/badge/AWS-316192?style=for-the-badge&logo=aws&logoColor=white" height="30px"/><img src="https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white" height="30px"/><img src="https://img.shields.io/badge/Jest-316192?style=for-the-badge&logo=jest&logoColor=white" height="30px"/><img src="https://img.shields.io/badge/Cypress-316192?style=for-the-badge&logo=cypress&logoColor=white" height="30px"/><img src="https://img.shields.io/badge/React-316192?style=for-the-badge&logo=react&logoColor=white" height="30px"/><img src="https://img.shields.io/badge/Styled-components-316192?style=for-the-badge&logo=styled-components&logoColor=white" height="30px"/><img src="https://img.shields.io/badge/HTML-316192?style=for-the-badge&logo=html&logoColor=white" height="30px"/><img src="https://img.shields.io/badge/CSS-316192?style=for-the-badge&logo=css&logoColor=white" height="30px"/><img src="https://img.shields.io/badge/VSCode-316192?style=for-the-badge&logo=vscodes&logoColor=white" height="30px"/>
 
 <br />
 
