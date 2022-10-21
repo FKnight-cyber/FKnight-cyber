@@ -37,11 +37,6 @@ I`ve been working with **Javascript** and **C#**, but I have an interest in  **C
   <img src="https://img.shields.io/badge/VSCode-316192?style=for-the-badge&logo=vscodes&logoColor=white" height="30px"/>
 
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 <details>
   <summary>:heavy_exclamation_mark: GitHub Stats</summary>
