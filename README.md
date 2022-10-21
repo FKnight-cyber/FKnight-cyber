@@ -40,4 +40,7 @@ Olá, é um prazer recebê-lo em meu humilde porfólio!
 
 [linkedin]: https://www.linkedin.com/in/ryan-nicholas-15ba51158/
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 "Lack of structure offers not freedom, but chaos."
