@@ -5,7 +5,7 @@ Olá, é um prazer recebê-lo em meu humilde porfólio!
 
 ## Facts about me!!!
 - ✍️ Atualmente estou estudando Docker.
-- 💬 Pode me perguntar sobre qualquer coisa, que tal jogos?
+- 💬 Pode me perguntar sobre qualquer coisa, que tal animes?
 - 🐶 Pai de 4 cães e 4 gatos.
 
 ### Talk with me
@@ -16,23 +16,24 @@ Olá, é um prazer recebê-lo em meu humilde porfólio!
 
 ### Languages and Tools:
   
+  <p>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30px">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30px"/> 
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="30px"/> 
   <img src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white" height="30px"/> 
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="30px"/> 
-  <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB&logoColor=green" height="30px"/> <img src="https://img.shields.io/badge/Prisma-316192?style=for-the-badge&logo=prisma&logoColor=white" height="30px"/> 
+  <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB&logoColor=green" height="30px"/> 
+  <img src="https://img.shields.io/badge/Prisma-316192?style=for-the-badge&logo=prisma&logoColor=white" height="30px"/> 
   <img src="https://img.shields.io/badge/AWS-316192?style=for-the-badge&logo=aws&logoColor=white" height="30px"/> 
   <img src="https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white" height="30px"/> 
   <img src="https://img.shields.io/badge/Jest-316192?style=for-the-badge&logo=jest&logoColor=white" height="30px"/> 
-  <img src="https://img.shields.io/badge/Cypress-316192?style=for-the-badge&logo=cypress&logoColor=white" height="30px"/> <img src="https://img.shields.io/badge/React-316192?style=for-the-badge&logo=react&logoColor=white" height="30px"/> 
-  <img src="https://img.shields.io/badge/Styled-components-316192?style=for-the-badge&logo=styled-components&logoColor=white" height="30px"/> 
+  <img src="https://img.shields.io/badge/Cypress-316192?style=for-the-badge&logo=cypress&logoColor=white" height="30px"/> 
+  <img src="https://img.shields.io/badge/React-316192?style=for-the-badge&logo=react&logoColor=white" height="30px"/> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30px"/> 
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30px"/> 
   <img src="https://img.shields.io/badge/VSCode-316192?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="30px"/>
   <img src="https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=black" height="30px"/>
-
-  ###
+  </p>
 
 <br />
 
@@ -59,8 +60,5 @@ Olá, é um prazer recebê-lo em meu humilde porfólio!
 ####
 
 [linkedin]: https://www.linkedin.com/in/ryan-nicholas-15ba51158/
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 "Lack of structure offers not freedom, but chaos."
