@@ -2,10 +2,15 @@
   <img align="right" alt="cat typing gif" src="https://camo.githubusercontent.com/747b16d34fb50186c8931ee913cdbd068f643ec6e243cdb2595dbdff61c01d0e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f506951656a4566333131313655526a7534562f67697068792e676966" width="400" height="320" />
 
 Olá, é um prazer recebê-lo em meu humilde porfólio!
+</br>
+Desde muito cedo despertei um interesse por jogos, não só pelo entretenimento em si mas também pela parte do desenvolvimento, e pelas veredas da vida
+acabei me capacitando como desenvolvedor web e cá entre nós é tão animador quanto!
+Claro que como toda jornada, tem a sua própria história, então dê uma vasculhada, se meus trabalhos lhe agradarem basta entrar em contato :) 
 
-## Facts about me!!!
-- ✍️ Atualmente estou estudando Docker.
+## Curiosidades sobre mim!!!
+- ✍️ Atualmente estou desenvolvendo um site de delivery.
 - 💬 Pode me perguntar sobre qualquer coisa, que tal animes?
+- :swimmer: Amo natação, é meu esporte favorito!
 - 🐶 Pai de 4 cães e 4 gatos.
 
 ### Talk with me
