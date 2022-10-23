@@ -16,7 +16,6 @@ Claro que como toda jornada, tem a sua própria história, então dê uma vascul
 ### Talk with me
 
 [<img align="left" alt="ryan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ryan | GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 
 <br />
 
@@ -93,6 +92,5 @@ Claro que como toda jornada, tem a sua própria história, então dê uma vascul
 ####
 
 [linkedin]: https://www.linkedin.com/in/ryan-nicholas-15ba51158/
-[gmail]: mailto:ryannicholas.vieira@gmail.com
 
 "Lack of structure offers not freedom, but chaos."
