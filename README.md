@@ -3,14 +3,13 @@
 
 Olá, é um prazer recebê-lo em meu humilde portfólio!
 </br>
-Desde muito cedo despertei um interesse por jogos, não só pelo entretenimento em si mas também pela parte do desenvolvimento, e pelas veredas da vida
-acabei me capacitando como desenvolvedor web e cá entre nós é tão animador quanto!
-Claro que como toda jornada, tem a sua própria história, então dê uma vasculhada, se meus trabalhos lhe agradarem basta entrar em contato :) 
+Desenvolvedor, cantor de chuveiro e entusiasta de games competitivos.
+</br>
+Dê uma vasculhada! se meus projetos lhe agradarem basta entrar em contato. :) 
 
 ## Curiosidades sobre mim!!!
 - ✍️ Atualmente estou desenvolvendo um site de delivery.
 - 💬 Pode me perguntar sobre qualquer coisa, que tal animes?
-- :swimmer: Amo natação, é meu esporte favorito!
 - 🐶 Pai de 4 cães e 4 gatos.
 
 ### Talk with me
