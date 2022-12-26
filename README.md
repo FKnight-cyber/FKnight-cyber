@@ -8,7 +8,7 @@ Desenvolvedor, cantor de chuveiro e entusiasta de games competitivos.
 Dê uma vasculhada! se meus projetos lhe agradarem basta entrar em contato. :) 
 
 ## Curiosidades sobre mim!!!
-- ✍️ Atualmente estou planejando refazer o game web Tribal Wars (para fins educativos).
+- ✍️ Atualmente estou estudando java.
 - 💬 Pode me perguntar sobre qualquer coisa, que tal animes?
 - 🐶 Pai de 4 cães e 4 gatos.
 
